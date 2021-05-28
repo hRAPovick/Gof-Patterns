@@ -1,7 +1,5 @@
 package com.hrapovick.creational.abstractFactory;
 
-public class ProjectManager {
-    void manageProject() {
-        System.out.println("Project Manager manages project...");
-    }
+public interface ProjectManager {
+    void manageProject();
 }
