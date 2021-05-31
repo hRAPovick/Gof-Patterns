@@ -1,6 +1,4 @@
-package com.hrapovick.creational.builder;
-
-import java.nio.file.DirectoryStream;
+package com.hrapovick.creational.builder.easy;
 
 public class BuildWebsiteRunner {
     public static void main(String[] args) {

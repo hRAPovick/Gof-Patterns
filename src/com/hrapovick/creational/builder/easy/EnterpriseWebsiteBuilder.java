@@ -1,4 +1,4 @@
-package com.hrapovick.creational.builder;
+package com.hrapovick.creational.builder.easy;
 
 public class EnterpriseWebsiteBuilder extends WebsiteBuilder {
 

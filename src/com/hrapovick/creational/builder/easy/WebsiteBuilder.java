@@ -1,4 +1,4 @@
-package com.hrapovick.creational.builder;
+package com.hrapovick.creational.builder.easy;
 
 public abstract class WebsiteBuilder {
     Website website;

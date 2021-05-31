@@ -1,4 +1,4 @@
-package com.hrapovick.creational.builder;
+package com.hrapovick.creational.builder.easy;
 
 public class Director {
     WebsiteBuilder builder;
@@ -13,8 +13,6 @@ public class Director {
         builder.buildCms();
         builder.buildPrice();
 
-        Website website = builder.getWebsite();
-
-        return website;
+        return builder.getWebsite();
     }
 }
